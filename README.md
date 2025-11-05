@@ -38,31 +38,34 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
+CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
+
 a.   KVL:
-
-<img width="623" height="367" alt="Screenshot 2025-09-14 221123" src="https://github.com/user-attachments/assets/17440eb6-8403-4979-931b-313233b01269" />
-
  
+
+
+<img width="624" height="307" alt="image" src="https://github.com/user-attachments/assets/9ef9532c-662a-41d8-bd9a-22e97ffdfc76" />
+
+
+b.  KCL:
+ 
+
+<img width="646" height="267" alt="image" src="https://github.com/user-attachments/assets/4e1fd900-d263-45de-9d01-442492c9ee31" />
+
+Calculation:
+
+a.   KVL:
+ 
+
+<img width="580" height="209" alt="image" src="https://github.com/user-attachments/assets/f8e7142c-ef10-4aed-b5a1-33c57cf7487d" />
 
 
 b.  KCL:
 
-
- <img width="623" height="289" alt="Screenshot 2025-09-14 221129" src="https://github.com/user-attachments/assets/0bedeb22-f15a-493c-9b00-a1978abfdfb4" />
- 
-
-Calculation:
-
- KVL & KCL
- 
-![IMG-20250917-WA0039](https://github.com/user-attachments/assets/34fb2612-0a63-4d27-8dce-9860ca36045a)
-![IMG-20250917-WA0041](https://github.com/user-attachments/assets/9f104778-2d37-46b3-8445-bdd21b860eeb)
-![WhatsApp Image 2025-09-17 at 10 20 40_050702fc](https://github.com/user-attachments/assets/5c408c75-c3cf-4370-8d0c-f7e7a07a6fd5)
-
-
+<img width="580" height="209" alt="image" src="https://github.com/user-attachments/assets/44f343b9-c262-4cf9-9e90-fa3d5230017e" />
 
 
 
@@ -71,12 +74,14 @@ Tabulation:
 
 a.   KVL:
  
-![IMG-20250917-WA0038](https://github.com/user-attachments/assets/4dec40a4-865c-4cc2-b587-74889b772671)
+
+<img width="629" height="235" alt="image" src="https://github.com/user-attachments/assets/a5da1601-c027-43a6-9b4a-2031a8195ea7" />
 
 
 b.  KCL:
-![IMG-20250917-WA0040](https://github.com/user-attachments/assets/adf7e82b-8f40-4c6f-8dfd-b43bb31d475e)
 
+
+<img width="572" height="198" alt="image" src="https://github.com/user-attachments/assets/79ccacfa-b58c-4e69-a588-f8de382e97e3" />
 
 
 RESULT:
